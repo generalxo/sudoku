@@ -1,14 +1,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.AppHost", "Sudoku.AppHost\Sudoku.AppHost.csproj", "{0E6DC6C2-837D-44B2-84CF-8650E23B197A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ServiceDefaults", "Sudoku.ServiceDefaults\Sudoku.ServiceDefaults.csproj", "{2B5F2794-B11C-7F6D-BA4E-3FD968E80C96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ApiService", "Sudoku.ApiService\Sudoku.ApiService.csproj", "{43CC3026-F8D7-7A2A-37A1-7E7CDC600427}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Web", "Sudoku.Web\Sudoku.Web.csproj", "{8D651B76-16CF-488C-4968-3252079A2AC5}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client", "client\client.esproj", "{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}"
 EndProject
@@ -30,10 +28,6 @@ Global
 		{43CC3026-F8D7-7A2A-37A1-7E7CDC600427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CC3026-F8D7-7A2A-37A1-7E7CDC600427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CC3026-F8D7-7A2A-37A1-7E7CDC600427}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D651B76-16CF-488C-4968-3252079A2AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D651B76-16CF-488C-4968-3252079A2AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D651B76-16CF-488C-4968-3252079A2AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D651B76-16CF-488C-4968-3252079A2AC5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU

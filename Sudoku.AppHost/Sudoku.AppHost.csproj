@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sudoku.ApiService\Sudoku.ApiService.csproj" />
-    <ProjectReference Include="..\Sudoku.Web\Sudoku.Web.csproj" />
   </ItemGroup>
 
   <ItemGroup>
